@@ -8,7 +8,6 @@ Script ini menyediakan proses instalasi cepat dan otomatis khusus untuk provider
 ## ✨ Fitur Utama
 - 🚀 Instalasi RDP otomatis dalam hitungan menit  
 - 🎨 Menu interaktif dengan tampilan berwarna  
-- 🔐 Sistem lisensi (akses via Discord)  
 - 🌐 Support VPS Debian 12 / Ubuntu 22  
 - 🧩 Support provider DigitalOcean (provider lain coming soon)
 
